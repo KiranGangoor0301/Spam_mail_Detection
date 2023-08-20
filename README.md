@@ -1,13 +1,5 @@
 # Spam Email Detection using Naive Bayes Algorithm
 
-[![GitHub license](https://img.shields.io/github/license/YourUsername/SpamEmailDetection-NaiveBayes)](https://github.com/YourUsername/SpamEmailDetection-NaiveBayes/blob/main/LICENSE)
-![GitHub repo size](https://img.shields.io/github/repo-size/YourUsername/SpamEmailDetection-NaiveBayes)
-![GitHub issues](https://img.shields.io/github/issues/YourUsername/SpamEmailDetection-NaiveBayes)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/YourUsername/SpamEmailDetection-NaiveBayes)
-![GitHub stars](https://img.shields.io/github/stars/YourUsername/SpamEmailDetection-NaiveBayes?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YourUsername/SpamEmailDetection-NaiveBayes?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/YourTwitterHandle?style=social)
-
 A spam email detection project developed using the Naive Bayes algorithm. This project is implemented in a Jupyter notebook, demonstrating the process of training a machine learning model to classify emails as spam or not spam (ham).
 
 ![Project Screenshot](screenshots/project_screenshot.png)
