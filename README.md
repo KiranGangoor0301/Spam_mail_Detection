@@ -1,8 +1,8 @@
 # Spam Email Detection using Naive Bayes Algorithm
 
 A spam email detection project developed using the Naive Bayes algorithm. This project is implemented in a Jupyter notebook, demonstrating the process of training a machine learning model to classify emails as spam or not spam (ham).
+![Screenshot 2023-08-20 230829](https://github.com/KiranGangoor0301/Spam_mail_Detection/assets/128992542/7cc1c08e-c1dc-4843-b5c0-13dd6a4c1d49)
 
-![Project Screenshot](screenshots/project_screenshot.png)
 
 ## Table of Contents
 
