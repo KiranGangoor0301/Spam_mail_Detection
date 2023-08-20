@@ -27,7 +27,7 @@ Insert a GIF or link to a demo showcasing your project in action. You can use to
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YourUsername/SpamEmailDetection-NaiveBayes.git
+git clone https://github.com/KiranGangoor0301/Spam_mail_Detection.git
 ```
 
 ## Usage
