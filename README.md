@@ -12,7 +12,6 @@ A spam email detection project developed using the Naive Bayes algorithm. This p
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
